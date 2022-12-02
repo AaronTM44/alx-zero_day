@@ -1,1 +1,1 @@
-about git
+first read me file
